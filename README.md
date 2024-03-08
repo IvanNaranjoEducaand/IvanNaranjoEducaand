@@ -1,5 +1,13 @@
-### Hi there 👋
+## Iván Naranjo 👋
 
+### Estudiante de DAW en Sevilla🗣🗣
+- Actualmente estudiando 1º año de Desarrollo de Aplcaciones Web❗
+
+- Subida de ejercicios de programación, base de datos, entornos de desarrollo y HTML/CSS.
+# 💻 CONTENIDO
+### Ejercicios de Programación 🖥
+### Proyectos relacionados con la creación de bases de datos 📜
+### Páginas Web con sus HTML y CSS respectivos 📡
 <!--
 **IvanNaranjoEducaand/IvanNaranjoEducaand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
